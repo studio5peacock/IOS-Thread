@@ -1,0 +1,6 @@
+{
+  "name": "Ios-thread",
+  "tagline": "Comparing the methods about using thread or multi-thread",
+  "body": "# the simplest http-syn-request:\r\n\r\n  NSData *data = [NSData dataWithContentURL:[NSURL URLWithString:@\"http://www.domain.com/yourphoto.png\"]];",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
